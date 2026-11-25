@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: lyftr-chatbot-backend
+    name: chatbot-api
     runtime: docker
     dockerfilePath: backend/Dockerfile
     dockerContext: backend
