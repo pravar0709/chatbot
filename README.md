@@ -8,10 +8,8 @@ A production-ready LLM chatbot with intelligent key-pool failover, built-in resp
 
 | Service  | URL                                      |
 |----------|------------------------------------------|
-| Frontend | `https://your-frontend.vercel.app`       |
-| Backend  | `https://your-backend.onrender.com`      |
-
-> Replace with your actual deployed URLs.
+| Frontend | https://frontend-sigma-eight-vg3egywebw.vercel.app |
+| Backend  | https://chatbot-api-kr09.onrender.com              |
 
 ---
 
